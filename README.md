@@ -1,2 +1,2 @@
 # birthday
-first program
+first git program
